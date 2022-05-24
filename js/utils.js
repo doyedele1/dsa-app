@@ -33,8 +33,6 @@ function getNextSunday(d) {
     var mm = nearestMonday.getMonth() + 1;
     var yyyy = nearestMonday.getFullYear();
     return toddMMYYYY(dd,mm,yyyy);
-
-
 }
 
 function deterministicShuffle(arr,rng){

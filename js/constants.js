@@ -2,17 +2,17 @@ module.exports = {
   members: {
     SET_1: [
       "Demilade Oyedele",
-      "Tolu",
       "Victor",
-      "Shreyansh",
-      "Nicolars"
+      "Tolu",
+      "Bernard",
+      "Patrick Ofili",
     ],
     SET_2: [
       "Sadiq Babalola",
-      "Empty",
+      "Shreyansh",
       "Samad",
-      "Patrick Ofili",
-      "Bernard"
+      "Nicolars",
+      "Empty",
     ],
   },
   REFERENCE_DATE_STRING: "May 23, 2022",
