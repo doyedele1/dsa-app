@@ -1,21 +1,21 @@
 module.exports = {
   members: {
     SET_1: [
-      "Demilade Oyedele",
+      "Demilade",
       "Victor",
       "Tolu",
       "Bernard",
       "Adesayo",
       "Femi",
-      "Patrick Ofili",
+      "Kazeem",
     ],
     SET_2: [
-      "Sadiq Babalola",
+      "Sadiq",
       "Shreyansh",
       "Samad",
       "Nicolars",
       "Asafa",
-      "Kazeem",
+      "Patrick",
       "Olamide"
     ],
   },
