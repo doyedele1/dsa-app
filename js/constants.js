@@ -5,6 +5,8 @@ module.exports = {
       "Victor",
       "Tolu",
       "Bernard",
+      "Adesayo",
+      "Femi",
       "Patrick Ofili",
     ],
     SET_2: [
@@ -12,7 +14,9 @@ module.exports = {
       "Shreyansh",
       "Samad",
       "Nicolars",
-      "Empty",
+      "Asafa",
+      "Kazeem",
+      "Olamide"
     ],
   },
   REFERENCE_DATE_STRING: "May 23, 2022",
